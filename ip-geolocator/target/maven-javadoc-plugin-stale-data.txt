@@ -7,14 +7,14 @@
 'UTF-8'
 -private
 -sourcepath
-'/home/andras/Downloads/szoft2021/ip-geolocator/src/main/java:/home/andras/Downloads/szoft2021/ip-geolocator/target/generated-sources/annotations'
+'/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/src/main/java:/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/generated-sources/annotations'
 -author
 -bottom
 'Copyright &#169; 2021. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs'
+'/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
@@ -29,24 +29,24 @@
 'ip-geolocator 1.0 API'
 geolocator
 geolocator
-/home/andras/Downloads/szoft2021/ip-geolocator/src/main/java = 1579701385000
-/home/andras/Downloads/szoft2021/ip-geolocator/target/generated-sources/annotations = 1615667950132
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/constant-values.html = 1615667995029
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/index-all.html = 1615667995089
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/stylesheet.css = 1615667995121
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/package-search-index.zip = 1615667995089
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/element-list = 1615667995009
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/type-search-index.js = 1615667995089
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/deprecated-list.html = 1615667995061
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/member-search-index.js = 1615667995089
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/allclasses-index.html = 1615667995097
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/script.js = 1615667995121
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/member-search-index.zip = 1615667995089
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/type-search-index.zip = 1615667995089
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/package-search-index.js = 1615667995085
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/search.js = 1615667995121
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/index.html = 1615667995105
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/system-properties.html = 1615667995101
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/help-doc.html = 1615667995109
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/allpackages-index.html = 1615667995101
-/home/andras/Downloads/szoft2021/ip-geolocator/target/site/apidocs/overview-tree.html = 1615667995053
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/src/main/java = 1579701385000
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/generated-sources/annotations = 1615667950132
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/constant-values.html = 1615749273129
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/index-all.html = 1615749273705
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/stylesheet.css = 1615749273965
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/package-search-index.zip = 1615749273689
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/element-list = 1615749273077
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/type-search-index.js = 1615749273697
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/deprecated-list.html = 1615749273565
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/member-search-index.js = 1615749273701
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/allclasses-index.html = 1615749273717
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/script.js = 1615749273965
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/member-search-index.zip = 1615749273701
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/type-search-index.zip = 1615749273697
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/package-search-index.js = 1615749273585
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/search.js = 1615749274049
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/index.html = 1615749273725
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/system-properties.html = 1615749273721
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/help-doc.html = 1615749273957
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/allpackages-index.html = 1615749273717
+/home/andras/Downloads/szoft2021/Hf_jelenetkeszit/ip-geolocator/target/site/apidocs/overview-tree.html = 1615749273557
